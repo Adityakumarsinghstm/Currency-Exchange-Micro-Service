@@ -1,5 +1,6 @@
 package com.socialMediaApp.entity;
 
+import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.fasterxml.jackson.annotation.JsonProperty;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
@@ -32,7 +33,7 @@ public class User {
     private LocalDate birthDate;
 
     @OneToMany(mappedBy = "user")
-    @JsonProperty
+    @JsonIgnore
     private List<Post> posts;
 
     public User(Integer id, String name, LocalDate birthDate) {
