@@ -44,6 +44,9 @@ The following advanced REST API concepts have been implemented:
 - **Pagination**: Efficiently handle large datasets.
 - **Model Mapper**: Simplify data transformations.
 
+  ### ASCII-style UML diagram
+![image](https://github.com/user-attachments/assets/2179fc66-1cd2-4dc0-829e-08938d6f240f)
+
 ### Monitoring and Actuators
 - **Spring Boot Actuator**: Provides insights into the application's health, metrics, and runtime state.
 
