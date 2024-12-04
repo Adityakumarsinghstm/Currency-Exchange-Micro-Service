@@ -93,7 +93,7 @@ Feel free to fork the repository and contribute! Contributions, issues, and feat
 ---
 
 ## 🛡️ License
-This project is licensed under the MIT License.
+This project is licensed under Me.
 
 ---
 
