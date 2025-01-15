@@ -1,6 +1,6 @@
-# SocialMedia Microservices
+# Currency Exchange Microservices
 
-This repository contains the **SocialMedia** application, which is currently being converted from a monolithic architecture to a microservices-based architecture. The project is built using the **Java technology stack**, leveraging **Spring Boot** for rapid development and **MySQL** for database management.
+This repository contains the **CurrencyExchange** application, which is currently being converted from a monolithic architecture to a microservices-based architecture. The project is built using the **Java technology stack**, leveraging **Spring Boot** for rapid development and **MySQL** for database management.
 
 ---
 
@@ -53,7 +53,7 @@ The following advanced REST API concepts have been implemented:
 ---
 
 ## 📜 Folder Structure
-socialmedia
+CurrencyExchange
 ├── api-gateway
 ├── cloud-config
 ├── currency-conversion-service
